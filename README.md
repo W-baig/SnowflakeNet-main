@@ -4,6 +4,10 @@
 
 [<img src="./pics/SPD.png" width="100%" alt="Intro pic" />](pics/SPD.png)
 
+## [JRS Project]
+
+- **针对金线补全项目
+
 ## [NEWS]
 
 - **2023-02 [NEW:tada:]** The [Jittor](https://cg.cs.tsinghua.edu.cn/jittor/) implementations of SPD are released in the [SPD_jittor](https://github.com/AllenXiangX/SPD_jittor) repo.
